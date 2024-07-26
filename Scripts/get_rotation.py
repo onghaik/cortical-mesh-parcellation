@@ -1,4 +1,3 @@
-
 def compute_rotations(random_degs=5, view = 'Random', random = False):
     """
     Compute six random 3D rotation matrices for Front, Top, Bottom, Left, Back, Right views in this order
